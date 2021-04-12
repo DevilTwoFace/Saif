@@ -25,7 +25,7 @@ SECRET_KEY = 'vdopinjo=zq36c_=!j5#pr=iq*mwx$eq_i!aco7xqd!e@+3()q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','mywebsitesaif.herokuapp.com']
 
 
 # Application definition
